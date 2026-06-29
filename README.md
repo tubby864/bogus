@@ -3,9 +3,9 @@
 
 ## Table of Contents
 - [🎈 bogus](#-bogus)
- - [Installation](#installation)
- - [Usage](#usage)
- - [License](#license)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
 
 ## Installation
 
